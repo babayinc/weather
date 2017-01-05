@@ -12,6 +12,8 @@ gem 'rails', '~> 5.0.1'
 # gem 'sqlite3'
 # Use postgresql as the database for Active Record
 gem 'pg'
+# Use Devise for signin
+gem 'devise'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
